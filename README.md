@@ -10,11 +10,11 @@ Features:
 + Synthesizes height maps for faster light calculations
 + Retains skylight data
 + Synthesizes blocklight data which indev versions do not store to file
-+ ... See for yourself!
++ ... See for yourself!\
 The converter is based on modified code from https://www.mojang.com/2012/02/new-minecraft-map-format-anvil/
 (archived at https://github.com/Awzaw/AnvilConverter/tree/master)
 The mod author disclaims any copyright to the source code.
 All rights belong to Mojang Studios / formerly Mojang AB.
 This software comes WITHOUT ANY WARRANTY. 
-Always make backups of your Minecraft files before proceeding.
+Always make backups of your Minecraft files before proceeding.\
 Don't do evil.
