@@ -1,6 +1,6 @@
 # mcIndevToAnvil
 
-Ever wanted to visit your world from the very first versions of Minecraft in modern releases? Now it's possible with this Minecraft Indev's .mclevel format to Anvil format converter.
+Ever wanted to visit your world from the very first versions of Minecraft in modern releases? Now it's possible with this Minecraft Indev's .mclevel format to Anvil format converter.\
 Features:
 + Retains player position and inventory
 + Supports all level sizes and shapes
